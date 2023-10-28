@@ -18,6 +18,16 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
+      - title: 👋 Bienvenue dans l'équipe de Saint-Germain-En-Laye
+        content: Venez nous voir travailler...
+        align: center
+        background:
+          image:
+            filename: architecture_nouveau_centre.jpg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
       - title: Venez déjeuner et discuter ☕️
         content: 'Partagez vos connaissances avec le groupe et développez vos compétences ensemble!'
         align: left
