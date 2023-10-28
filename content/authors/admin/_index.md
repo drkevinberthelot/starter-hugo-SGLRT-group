@@ -29,7 +29,6 @@ education:
 - DES d'oncologie radiothérapie dans les CLCC de Normandie
 - Praticien Assistant des CLCC à Gustave Roussy
 - Master 2 de cancérologie à l'Université Paris-Saclay
-- Doctorat de radiobiologie à l'Ecole des Sciences du Cancer  
   courses:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
