@@ -64,7 +64,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - admin
 ---
 
 Kevin Berthelot est un Oncologue Radiothérapeute formé dans le CLCC le plus important d'Europe, 4e au classement internationnal. Il a un socle scientifique qui permet de discuter avec précision de la balance bénéfice risque des traitements.
