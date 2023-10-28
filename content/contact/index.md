@@ -9,23 +9,27 @@ sections:
     content:
       title: Contact
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
+        Expliquez le motif de votre message (prise ou changement de RDV), Information par rapport à votre traitement ou à votre pathologie. Message informatif. Retour d'expérience...
+      email: radiotherapie.sgl@gmail.com
+      phone: 01 39 27 58 03
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: 20 rue Armagis
+        city: Saint-Germain-En-Laye
+        region: Yvelines
+        postcode: '78100'
+        country: France
+        country_code: FR
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        latitude: '48.89713'
+        longitude: '2.08490'
+      directions: Entrée avec accueil au RDC et secrétariat au 1er étage
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - 'Lundi de 08:00 à 19:00'
+        - 'Mardi de 08:00 à 19:00'
+        - 'Mercredi de 08:00 à 19:00'
+        - 'Jeudi de 08:00 à 19:00'
+        - 'Vendredi de 08:00 à 19:00'
+        - 'Fermé le weekend'
       appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
