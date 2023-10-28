@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kevin Berthelot
+title: Dr Kevin Berthelot
 
 # Full name (for SEO)
 first_name: Kevin
