@@ -26,9 +26,6 @@ interests:
   - Information Retrieval
 
 education:
-- DES d'oncologie radiothérapie dans les CLCC de Normandie
-- Praticien Assistant des CLCC à Gustave Roussy
-- Master 2 de cancérologie à l'Université Paris-Saclay
   courses:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
