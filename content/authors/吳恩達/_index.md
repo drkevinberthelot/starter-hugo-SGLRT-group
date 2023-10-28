@@ -72,8 +72,7 @@ email: 'dr.kevin.berthelot@gmail.com'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
-  - Visitors
+  - Oncologues radiothérapeutes
 ---
 
 Kevin Berthelot est oncologue radiothérapeute, il traite en majorité des patients atteints de cancers ORL, de cancers du Sein, de cancers Gynécologiques et Pelviens.
