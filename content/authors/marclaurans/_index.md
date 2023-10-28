@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Dr Oana Cojocariu
+title: Dr Marc Laurans
 
 # Full Name (for SEO)
-first_name: Oana
-last_name: Cojocariu
+first_name: Marc
+last_name: Laurans
 
 # Is this the primary user of the site?
 superuser: false
