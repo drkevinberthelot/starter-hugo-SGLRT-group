@@ -8,8 +8,8 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Centre de radiothérapie
+        de Saint-Germain-En-Laye
       image:
         filename: welcome.jpg
       text: |
