@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: halcyon.jpg
+            filename: archi_nouveau_centre.jpg
             filters:
               brightness: 0.7
           position: right
@@ -33,7 +33,7 @@ sections:
         align: right
         background:
           image:
-            filename: halcyon.jpg
+            filename: octobre_rose.jpg
             filters:
               brightness: 0.5
           position: center
