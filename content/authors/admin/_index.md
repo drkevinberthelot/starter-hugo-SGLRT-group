@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Kevin Berthelot
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Kevin
+last_name: Berthelot
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Oncologue Radiothérapeute
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: CHI Poissy-Saint-Germain-En-Laye
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,16 +26,16 @@ interests:
   - Information Retrieval
 
 education:
+- DES d'oncologie radiothérapie dans les CLCC de Normandie
+- Praticien Assistant des CLCC à Gustave Roussy
+- Master 2 de cancérologie à l'Université Paris-Saclay
+- Doctorat de radiobiologie à l'Ecole des Sciences du Cancer
+  
   courses:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -44,16 +44,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:dr.kevin.berthelot@gmail.com'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/KBerthelot_MD
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=en&user=hVqjNbkAAAAJ&view_op=list_works&gmla=AJ1KiT13xotTpBLcTvj79YUQOvz6-15Jx0o8KJYZbhBkVGsdBR7bZt3YCCncNXEoajoLFlHccA7-RY18Wp5mfJLc
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/kevinberthelot
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,6 +72,6 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Kevin Berthelot est un Oncologue Radiothérapeute formé dans le CLCC le plus important d'Europe, 4e au classement internationnal. Il a un socle scientifique qui permet de discuter avec précision de la balance bénéfice risque des traitements.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
