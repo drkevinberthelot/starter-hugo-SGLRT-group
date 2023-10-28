@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Centre de radiothérapie de Saint-Germain-En-Laye # Website name
+title: Centre de Radiothérapie de Saint-Germain-En-Laye # Website name
 baseURL: 'https://sglrt.com/' # Website URL
 
 ############################
