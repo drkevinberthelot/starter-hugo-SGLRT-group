@@ -13,7 +13,17 @@ sections:
         align: center
         background:
           image:
-            filename: archi_nouveau_centre.jpg
+            filename: architecture_nouveau_centre.jpg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+        - title: Un équipement moderne
+        content: Une précision en constante amélioration ...
+        align: center
+        background:
+          image:
+            filename: halcyon.jpg
             filters:
               brightness: 0.7
           position: right
