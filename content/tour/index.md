@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 👋 Bienvenue dans l'équipe de Saint-Germain-En-Laye
+        content: Venez nous voir travailler...
         align: center
         background:
           image:
@@ -19,7 +19,7 @@ sections:
           position: right
           color: '#666'
       - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+        content: 'Partagez vos connaissances avec le groupe et développez vos compétences ensemble!'
         align: left
         background:
           image:
@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: L'association VALYNOR
+        content: 'Ouverture imminente!'
         align: right
         background:
           image:
@@ -41,14 +41,14 @@ sections:
         link:
           icon: graduation-cap
           icon_pack: fas
-          text: Join Us
+          text: Rejoignez-nous!
           url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
       is_fullscreen: true
       # Automatically transition through slides?
-      loop: false
+      loop: true
       # Duration of transition between slides (in ms)
       interval: 2000
 ---
