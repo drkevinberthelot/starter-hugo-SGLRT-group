@@ -30,7 +30,7 @@ sections:
         - 'Jeudi de 08:00 à 19:00'
         - 'Vendredi de 08:00 à 19:00'
         - 'Fermé le weekend'
-      appointment_url: 'https://calendly.com'
+      appointment_url: 'https://calendly.com/kev-berthelot'
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
