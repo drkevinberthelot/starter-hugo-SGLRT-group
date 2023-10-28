@@ -18,8 +18,8 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Un centre de radiothérapie au coeur de Saint-Germain-En-Laye.'
+    twitter: 'SGL_radiotherapie'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -56,8 +56,8 @@ footer:
 
 locale:
   date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
-  address_format: en-us
+  time_format: '13:04'
+  address_format: fr-fr
 
 # Site features
 
@@ -91,7 +91,7 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: wowchemy
+    provider: kevinberthelot
     algolia:
       app_id: ''
       api_key: ''
