@@ -18,16 +18,6 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Un équipement moderne
-        content: Une précision en constante amélioration ...
-        align: center
-        background:
-          image:
-            filename: halcyon.jpg
-            filters:
-              brightness: 0.7
-          position: right
-          color: '#666'
       - title: Venez déjeuner et discuter ☕️
         content: 'Partagez vos connaissances avec le groupe et développez vos compétences ensemble!'
         align: left
