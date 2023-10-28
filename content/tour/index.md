@@ -18,12 +18,12 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: 👋 Bienvenue dans l'équipe de Saint-Germain-En-Laye
-        content: Venez nous voir travailler...
+      - title: 🚀 Des équipements modernes
+        content: Une qualité en amélioration continue...
         align: center
         background:
           image:
-            filename: architecture_nouveau_centre.jpg
+            filename: halcyon.jpg
             filters:
               brightness: 0.7
           position: right
