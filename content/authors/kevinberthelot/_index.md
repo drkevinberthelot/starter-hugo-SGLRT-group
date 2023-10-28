@@ -9,8 +9,6 @@ last_name: Berthelot
 # Username (this should match the folder name)
 authors:
   - Kevin Berthelot
-  - Oana Cojocariu
-  - Marc Laurans
 
 # Is this the primary user of the site?
 superuser: true
