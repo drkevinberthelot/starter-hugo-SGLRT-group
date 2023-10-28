@@ -18,7 +18,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-        - title: Un équipement moderne
+      - title: Un équipement moderne
         content: Une précision en constante amélioration ...
         align: center
         background:
