@@ -18,12 +18,12 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
+      - title: Venez déjeuner et discuter ☕️
         content: 'Partagez vos connaissances avec le groupe et développez vos compétences ensemble!'
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: pastu.jpg
             filters:
               brightness: 0.7
           position: center
