@@ -1,24 +1,24 @@
 ---
 title: Inauguration de VALYNOR
 
-event: Soirée d'inauguration
+event: Soirée d'inauguration de l'association VALYNOR
 event_url: https://example.org
 
-location: Wowchemy HQ
+location: Centre de radiothérapie de Saint-Germain en Laye
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 6 rue Armagis
+  city: Saint-Germain-En-Laye
+  region: IDF
+  postcode: '78100'
+  country: France
 
-summary: An example event.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Une soirée qui promet.
+abstract: 'Tenue correcte exigée pour un banquet digne de Bilbo.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2024-06-01T13:00:00Z'
+date_end: '2024-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
