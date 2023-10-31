@@ -1,7 +1,7 @@
 ---
 title: Inauguration
 
-event: Ouverture officielle de VALYNOR
+event: Ouverture de VALYNOR
 event_url: https://valynor.org
 
 location: Centre de Radiothérapie, 6 rue Armagis, 78100 Saint-Germain-En-Laye
