@@ -17,12 +17,12 @@ abstract: 'Tenue correcte exigée pour un banquet digne de Bilbo.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-06-01T06:00Z'
-date_end: #'2024-06-01T21:00Z'
+date: '24-06-01T06:00Z'
+date_end: #'24-06-01T08:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-10-31T00:00:00Z'
+publishDate: '23-10-31T00:00Z'
 
 authors: []
 tags: []
