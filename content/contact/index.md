@@ -47,7 +47,7 @@ sections:
           id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+          captcha: true
     design:
       columns: '1'
 
@@ -60,7 +60,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: contact.jpg
+          filename: ancien_centre.jpg
           filters:
             brightness: 1
           parallax: false
