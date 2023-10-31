@@ -55,8 +55,8 @@ footer:
 # Localization
 
 locale:
-  date_format: '2 Jan 2006'
-  time_format: '13:04'
+  date_format: '31/10/2006'
+  time_format: '13:04:00'
   address_format: fr-fr
 
 # Site features
