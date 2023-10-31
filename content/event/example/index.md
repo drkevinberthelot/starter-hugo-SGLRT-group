@@ -1,7 +1,7 @@
 ---
-title: Example Event
+title: Inauguration de VALYNOR
 
-event: Wowchemy Conference
+event: Soirée d'inauguration
 event_url: https://example.org
 
 location: Wowchemy HQ
