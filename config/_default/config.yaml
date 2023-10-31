@@ -10,7 +10,7 @@ baseURL: 'https://sglrt.com/' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: fr
+defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
