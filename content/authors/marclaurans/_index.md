@@ -67,6 +67,6 @@ user_groups:
   - Oncologues radiothérapeutes
 ---
 
-Kevin Berthelot est un Oncologue Radiothérapeute formé dans le CLCC le plus important d'Europe, 4e au classement internationnal. Il a un socle scientifique qui permet de discuter avec précision de la balance bénéfice risque des traitements.
+Marc Laurans est un Oncologue Radiothérapeute, ancien chef de clinique à l'HEGP, ancien interne des hôpitaux de Paris. Il a un socle scientifique qui permet de discuter avec précision de la balance bénéfice risque des traitements.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
