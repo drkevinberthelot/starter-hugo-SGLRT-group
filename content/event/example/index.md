@@ -24,8 +24,8 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '23-10-31T00:00Z'
 
-authors: [kevinberthelot]
-tags: []
+authors: [Kevin Berthelot]
+tags: [orl]
 
 # Is this a featured talk? (true/false)
 featured: false
