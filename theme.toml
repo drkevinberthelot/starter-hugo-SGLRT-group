@@ -41,4 +41,7 @@ features = ["page builder", "widgets", "themes", "search", "research publication
           "Marc Laurans",
           "Oana Cojocariu"
           ]
-  homepage = "https://radiotherapie-sgl.netlify.app/"
+  homepage = ["https://radiotherapie-sgl.netlify.app/",
+              "https://radiotherapie-sgl.netlify.app/",
+              "https://radiotherapie-sgl.netlify.app/"
+              ]
