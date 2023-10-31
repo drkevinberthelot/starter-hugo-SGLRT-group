@@ -24,8 +24,8 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2023-10-31T00:00:00Z'
 
-authors: [Kevin Berthelot]
-tags: [association; patients; soins de support; après-cancer; effets secondaires]
+authors: []
+tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
