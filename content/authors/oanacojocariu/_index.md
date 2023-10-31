@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Après des études à Paris,....
 
 interests:
   - Artificial Intelligence
@@ -67,6 +67,6 @@ user_groups:
   - Oncologues radiothérapeutes
 ---
 
-Kevin Berthelot est un Oncologue Radiothérapeute formé dans le CLCC le plus important d'Europe, 4e au classement internationnal. Il a un socle scientifique qui permet de discuter avec précision de la balance bénéfice risque des traitements.
+Oana Cojocariu est une Oncologue Radiothérapeute formée à l'APHP, une expérience en libéral et une bonne connaissance du réseau médical indispensable pour une prise en charge globale.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
