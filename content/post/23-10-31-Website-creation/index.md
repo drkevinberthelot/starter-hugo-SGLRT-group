@@ -1,6 +1,6 @@
 ---
-title Ouverture du site internet du Centre de Radiothérapie de St-Germain-En-Laye
-date 2023-10-31
+title: Ouverture du site internet du Centre de Radiothérapie de St-Germain-En-Laye
+date: 2023-10-31
 ---
 
 Nous sommes ravis de vous informer de l'ouverture du centre de radiothérapie de St-Germain-En-Laye
