@@ -11,11 +11,11 @@ sections:
         Centre de radiothérapie
         de Saint-Germain-En-Laye
       image:
-        filename: welcome.jpg
+        filename: halcyon.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        Le **Centre de radiothérapie de St-Germain en Laye** un centre de radiothérapie à taille humaine, et à la pointe.
   
   - block: collection
     content:
