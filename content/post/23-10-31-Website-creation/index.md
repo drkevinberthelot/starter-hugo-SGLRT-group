@@ -5,7 +5,7 @@ date: 2023-10-31
 
 Nous sommes ravis de vous informer de l'ouverture du site internet du centre de radiothérapie de St-Germain-En-Laye
 
-!--more--
+<!--more-->
 
 Parce qu'un site internet c'est chouette.
 
