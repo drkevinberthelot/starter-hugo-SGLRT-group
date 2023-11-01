@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Bienvenue dans l'équipe de St-Germain
+      - title: 👋 Bienvenue en radiothérapie à St-Germain
         content: Un centre dans la ville, un pied dans la vie.
         align: center
         background:
