@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Bienvenue dans l'équipe de Saint-Germain-En-Laye
-        content: Venez nous voir travailler...
+      - title: 👋 Bienvenue dans l'équipe de St-Germain
+        content: Un centre dans la ville, un pied dans la vie.
         align: center
         background:
           image:
