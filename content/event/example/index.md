@@ -19,7 +19,7 @@ abstract: 'Tenue correcte exigée pour un banquet digne de Bilbo.'
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-06-01T06:00Z'
 date_end: '2024-06-01T08:00Z'
-all_day: true
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2023-10-31T00:00Z'
