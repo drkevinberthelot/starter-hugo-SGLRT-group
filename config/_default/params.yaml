@@ -81,7 +81,7 @@ features:
   comment:
     provider: ''
     disqus:
-      shortname: 'kevinberthelot'
+      shortname: '@kevinberthelot'
       show_count: true
     commento:
       url: ''
