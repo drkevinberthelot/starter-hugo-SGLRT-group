@@ -22,7 +22,7 @@ date_end: #'2024-06-01T08:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-10-31T00:00Z'
+publishDate: '2022-10-31T00:00Z'
 
 authors: [Kevin Berthelot]
 tags: [orl]
