@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: architecture_nouveau_centre_facade.jpg
+            filename: chateaux_eau.jpg
             filters:
               brightness: 0.7
           position: right
