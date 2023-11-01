@@ -19,6 +19,6 @@ main:
   - name: Publications
     url: publication
     weight: 50
-  - name: Mail et RDV
+  - name: Mail & RDV
     url: contact
     weight: 60
